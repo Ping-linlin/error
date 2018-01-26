@@ -3,4 +3,6 @@
 ### python
 1. [python的for i in list remove陷阱](http://blog.csdn.net/silly2016/article/details/72904674)
 2. 切片是浅拷贝
+3. 闭包迟绑定
+
 ### golang
