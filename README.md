@@ -5,6 +5,6 @@
 2. 切片是浅拷贝
 3. [闭包迟/早绑定](/003-closure_bind.py)
 4. [dict的setdefault](/004-defaultdict.py)
-5. [classmethod和staticmethod](/005-static_class_method)
+5. [classmethod和staticmethod](/005-methods.py)
 
 ### golang
