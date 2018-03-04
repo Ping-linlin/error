@@ -4,7 +4,7 @@
 1. [python的for i in list remove陷阱](http://blog.csdn.net/silly2016/article/details/72904674)
 2. 切片是浅拷贝
 3. [闭包迟/早绑定](/003-closure_bind.py)
-4. [dict的setdefault与defaultdict](/004-defaultdict.py)
-5. [classmethod和staticmethod](/005-static_class_method.py)
+4. [dict的setdefault](/004-defaultdict.py)
+5. [classmethod和staticmethod](/005-static_class_method)
 
 ### golang
